@@ -1,1 +1,152 @@
-
+[
+  {
+    "kotoba": "疲れて",
+    "kana": "つかれて",
+    "arti": "lelah",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "寝よう",
+    "kana": "ねよう",
+    "arti": "tidur",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "図書館",
+    "kana": "としょかん",
+    "arti": "perpustakaan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "静か",
+    "kana": "しずか",
+    "arti": "tenang",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "公園",
+    "kana": "こうえん",
+    "arti": "taman",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "散歩",
+    "kana": "さんぽ",
+    "arti": "jalan-jalan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "来週",
+    "kana": "らいしゅう",
+    "arti": "minggu depan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "復習",
+    "kana": "ふくしゅう",
+    "arti": "mengulang pelajaran",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "試験",
+    "kana": "しけん",
+    "arti": "ujian",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "眠る",
+    "kana": "ねむる",
+    "arti": "tidur",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "雨",
+    "kana": "あめ",
+    "arti": "hujan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "海",
+    "kana": "うみ",
+    "arti": "laut",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "駅",
+    "kana": "えき",
+    "arti": "stasiun",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "アパート",
+    "kana": "あぱーと",
+    "arti": "apartemen",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "便利",
+    "kana": "べんり",
+    "arti": "praktis",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "電話",
+    "kana": "でんわ",
+    "arti": "telepon",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "寂しい",
+    "kana": "さびしい",
+    "arti": "kesepian",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "日本語",
+    "kana": "にほんご",
+    "arti": "bahasa Jepang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "忘れる",
+    "kana": "わすれる",
+    "arti": "lupa",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "上手",
+    "kana": "じょうず",
+    "arti": "pandai",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "練習",
+    "kana": "れんしゅう",
+    "arti": "latihan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "病気",
+    "kana": "びょうき",
+    "arti": "sakit",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "海外",
+    "kana": "かいがい",
+    "arti": "luar negeri",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "英語",
+    "kana": "えいご",
+    "arti": "bahasa Inggris",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "勉強",
+    "kana": "べんきょう",
+    "arti": "belajar",
+    "kategori": "kata benda"
+  }
+]
