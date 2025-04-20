@@ -1,1 +1,170 @@
-
+[
+  {
+    "kotoba": "呼ばれて",
+    "kana": "よばれて",
+    "arti": "dipanggil",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "社長",
+    "kana": "しゃちょう",
+    "arti": "direktur",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "社長室",
+    "kana": "しゃちょうしつ",
+    "arti": "ruang direktur",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "行きました",
+    "kana": "いきました",
+    "arti": "pergi",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "続けました",
+    "kana": "つづけました",
+    "arti": "melanjutkan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "テニス",
+    "kana": "てにす",
+    "arti": "tenis",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "帰る",
+    "kana": "かえる",
+    "arti": "pulang",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "教えて",
+    "kana": "おしえて",
+    "arti": "beritahu",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "料理",
+    "kana": "りょうり",
+    "arti": "masakan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "簡単",
+    "kana": "かんたん",
+    "arti": "mudah",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "元気",
+    "kana": "げんき",
+    "arti": "semangat",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "開けた",
+    "kana": "あけた",
+    "arti": "membuka",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "ドア",
+    "kana": "どあ",
+    "arti": "pintu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "出かけて",
+    "kana": "でかけて",
+    "arti": "pergi keluar",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "説明",
+    "kana": "せつめい",
+    "arti": "penjelasan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "家族",
+    "kana": "かぞく",
+    "arti": "keluarga",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "落ちそう",
+    "kana": "おちそう",
+    "arti": "hampir jatuh",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "お皿",
+    "kana": "おさら",
+    "arti": "piring",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "親",
+    "kana": "おや",
+    "arti": "orang tua",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "住む",
+    "kana": "すむ",
+    "arti": "tinggal",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "注意",
+    "kana": "ちゅうい",
+    "arti": "peringatan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "大事な",
+    "kana": "だいじな",
+    "arti": "penting",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "遅れて",
+    "kana": "おくれて",
+    "arti": "terlambat",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "事故",
+    "kana": "じこ",
+    "arti": "kecelakaan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "電車",
+    "kana": "でんしゃ",
+    "arti": "kereta",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "暑い",
+    "kana": "あつい",
+    "arti": "panas",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "重くて",
+    "kana": "おもくて",
+    "arti": "berat",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "持てません",
+    "kana": "もてません",
+    "arti": "tidak bisa membawa",
+    "kategori": "kata kerja"
+  }
+]
