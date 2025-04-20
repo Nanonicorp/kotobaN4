@@ -1,1 +1,152 @@
-
+[
+  {
+    "kotoba": "建てる",
+    "kana": "たてる",
+    "arti": "membangun",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "家",
+    "kana": "いえ",
+    "arti": "rumah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "銀行",
+    "kana": "ぎんこう",
+    "arti": "bank",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "お金",
+    "kana": "おかね",
+    "arti": "uang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "借りる",
+    "kana": "かりる",
+    "arti": "meminjam",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "お医者さん",
+    "kana": "おいしゃさん",
+    "arti": "dokter",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "部屋",
+    "kana": "へや",
+    "arti": "ruangan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "伝える",
+    "kana": "つたえる",
+    "arti": "menyampaikan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "集まって",
+    "kana": "あつまって",
+    "arti": "berkumpul",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "写真",
+    "kana": "しゃしん",
+    "arti": "foto",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "起きろ",
+    "kana": "おきろ",
+    "arti": "bangun",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "遅れる",
+    "kana": "おくれる",
+    "arti": "terlambat",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "風",
+    "kana": "かぜ",
+    "arti": "angin",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "経験",
+    "kana": "けいけん",
+    "arti": "pengalaman",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "捨てて",
+    "kana": "すてて",
+    "arti": "membuang",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "使う",
+    "kana": "つかう",
+    "arti": "menggunakan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "お貸し",
+    "kana": "おかし",
+    "arti": "meminjamkan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "通り",
+    "kana": "とおり",
+    "arti": "jalan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "旅行",
+    "kana": "りょこう",
+    "arti": "bepergian",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "休み",
+    "kana": "やすみ",
+    "arti": "libur",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "働いて",
+    "kana": "はたらいて",
+    "arti": "bekerja",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "残業",
+    "kana": "ざんぎょう",
+    "arti": "lembur",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "親切",
+    "kana": "しんせつ",
+    "arti": "baik hati",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "調べよう",
+    "kana": "しらべよう",
+    "arti": "mencari tahu",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "時間",
+    "kana": "じかん",
+    "arti": "waktu",
+    "kategori": "kata benda"
+  }
+]
