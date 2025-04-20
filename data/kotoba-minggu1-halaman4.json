@@ -1,1 +1,146 @@
-
+[
+  {
+    "kotoba": "電話番号",
+    "kana": "でんわばんごう",
+    "arti": "nomor telepon",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ご存じ",
+    "kana": "ごぞんじ",
+    "arti": "tahu (honorifik)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "お菓子",
+    "kana": "おかし",
+    "arti": "kue/makanan ringan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "申します",
+    "kana": "もうします",
+    "arti": "memanggil diri (humble)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "大学",
+    "kana": "だいがく",
+    "arti": "universitas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "いらっしゃる",
+    "kana": "いらっしゃる",
+    "arti": "ada (honorifik)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "お座り",
+    "kana": "おすわり",
+    "arti": "duduk (honorifik)",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "店",
+    "kana": "みせ",
+    "arti": "toko",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "暗い",
+    "kana": "くらい",
+    "arti": "gelap",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "雨",
+    "kana": "あめ",
+    "arti": "hujan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "降る",
+    "kana": "ふる",
+    "arti": "turun (hujan/salju)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "ケーキ",
+    "kana": "けーき",
+    "arti": "kue",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "おいしい",
+    "kana": "おいしい",
+    "arti": "enak",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "外国",
+    "kana": "がいこく",
+    "arti": "luar negeri",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ビデオカメラ",
+    "kana": "びでおかめら",
+    "arti": "kamera video",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "壊す",
+    "kana": "こわす",
+    "arti": "merusak",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "雑誌",
+    "kana": "ざっし",
+    "arti": "majalah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "読まれる",
+    "kana": "よまれる",
+    "arti": "dibaca (pasif)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "授業",
+    "kana": "じゅぎょう",
+    "arti": "kelas/pelajaran",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "遅れる",
+    "kana": "おくれる",
+    "arti": "terlambat",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "注意",
+    "kana": "ちゅうい",
+    "arti": "peringatan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "困る",
+    "kana": "こまる",
+    "arti": "kesulitan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "会議",
+    "kana": "かいぎ",
+    "arti": "rapat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "行われる",
+    "kana": "おこなわれる",
+    "arti": "dilaksanakan (pasif)",
+    "kategori": "kata kerja"
+  }
+]
