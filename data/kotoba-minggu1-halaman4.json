@@ -54,12 +54,6 @@
     "kategori": "kata sifat"
   },
   {
-    "kotoba": "雨",
-    "kana": "あめ",
-    "arti": "hujan",
-    "kategori": "kata benda"
-  },
-  {
     "kotoba": "降る",
     "kana": "ふる",
     "arti": "turun (hujan/salju)",
@@ -111,18 +105,6 @@
     "kotoba": "授業",
     "kana": "じゅぎょう",
     "arti": "kelas/pelajaran",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "遅れる",
-    "kana": "おくれる",
-    "arti": "terlambat",
-    "kategori": "kata kerja"
-  },
-  {
-    "kotoba": "注意",
-    "kana": "ちゅうい",
-    "arti": "peringatan",
     "kategori": "kata benda"
   },
   {
