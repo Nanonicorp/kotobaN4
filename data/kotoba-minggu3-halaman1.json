@@ -1,33 +1,69 @@
 [
   {
-    "kotoba": "立っている",
-    "kana": "たっている",
-    "arti": "sedang berdiri",
+    "kotoba": "乗る",
+    "kana": "のる",
+    "arti": "naik (kendaraan)",
     "kategori": "kata kerja"
   },
   {
-    "kotoba": "田中さん",
-    "kana": "たなかさん",
-    "arti": "Tuan/Tn. Tanaka",
-    "kategori": "nama"
-  },
-  {
-    "kotoba": "六",
-    "kana": "ろく",
-    "arti": "enam",
-    "kategori": "angka"
-  },
-  {
-    "kotoba": "走る",
-    "kana": "はしる",
-    "arti": "berlari",
+    "kotoba": "転ぶ",
+    "kana": "ころぶ",
+    "arti": "terjatuh",
     "kategori": "kata kerja"
   },
   {
-    "kotoba": "ないで",
-    "kana": "ないで",
-    "arti": "tanpa (bentuk larangan)",
-    "kategori": "bentuk kata kerja"
+    "kotoba": "垂れる",
+    "kana": "たれる",
+    "arti": "menetes, menggantung",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "郵便",
+    "kana": "ゆうびん",
+    "arti": "pos, surat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "夏休み",
+    "kana": "なつやすみ",
+    "arti": "libur musim panas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "残る",
+    "kana": "のこる",
+    "arti": "tinggal, tersisa",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "肉",
+    "kana": "にく",
+    "arti": "daging",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "魚",
+    "kana": "さかな",
+    "arti": "ikan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "読む",
+    "kana": "よむ",
+    "arti": "membaca",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "広い",
+    "kana": "ひろい",
+    "arti": "luas",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "手伝う",
+    "kana": "てつだう",
+    "arti": "membantu",
+    "kategori": "kata kerja"
   },
   {
     "kotoba": "空",
@@ -36,93 +72,87 @@
     "kategori": "kata benda"
   },
   {
-    "kotoba": "西",
-    "kana": "にし",
-    "arti": "barat",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "見て",
-    "kana": "みて",
-    "arti": "melihat (bentuk perintah)",
+    "kotoba": "座る",
+    "kana": "すわる",
+    "arti": "duduk",
     "kategori": "kata kerja"
   },
   {
-    "kotoba": "穴",
-    "kana": "あな",
-    "arti": "lubang",
+    "kotoba": "味",
+    "kana": "あじ",
+    "arti": "rasa",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "室",
-    "kana": "しつ",
-    "arti": "ruangan",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "突",
-    "kana": "つき",
-    "arti": "menyentuh, menusuk",
+    "kotoba": "閉める",
+    "kana": "しめる",
+    "arti": "menutup",
     "kategori": "kata kerja"
   },
   {
-    "kotoba": "夕方",
-    "kana": "ゆうがた",
-    "arti": "sore, waktu senja",
+    "kotoba": "寝る",
+    "kana": "ねる",
+    "arti": "tidur",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "意味",
+    "kana": "いみ",
+    "arti": "makna, arti",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "昼間",
-    "kana": "ひるま",
-    "arti": "siang hari",
+    "kotoba": "決める",
+    "kana": "きめる",
+    "arti": "memutuskan, menentukan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "押える",
+    "kana": "おさえる",
+    "arti": "menahan, menekan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "数える",
+    "kana": "かぞえる",
+    "arti": "menghitung",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "会う",
+    "kana": "あう",
+    "arti": "bertemu",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "おだいじに",
+    "kana": "おだいじに",
+    "arti": "semoga cepat sembuh",
+    "kategori": "ungkapan"
+  },
+  {
+    "kotoba": "任せる",
+    "kana": "まかせる",
+    "arti": "menyerahkan, mempercayakan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "位",
+    "kana": "い",
+    "arti": "peringkat, posisi",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "あつい",
-    "kana": "あつい",
-    "arti": "panas",
+    "kotoba": "おもしろい",
+    "kana": "おもしろい",
+    "arti": "menarik, seru",
     "kategori": "kata sifat"
   },
   {
-    "kotoba": "すずしい",
-    "kana": "すずしい",
-    "arti": "sejuk, dingin",
-    "kategori": "kata sifat"
-  },
-  {
-    "kotoba": "本",
-    "kana": "ほん",
-    "arti": "buku",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "さつ",
-    "kana": "さつ",
-    "arti": "satuan untuk buku",
-    "kategori": "kata satuan"
-  },
-  {
-    "kotoba": "左",
-    "kana": "ひだり",
-    "arti": "kiri",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "信号",
-    "kana": "しんごう",
-    "arti": "lampu lalu lintas",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "曲がる",
-    "kana": "まがる",
-    "arti": "berbelok",
+    "kotoba": "思う",
+    "kana": "おもう",
+    "arti": "berpikir, merasa",
     "kategori": "kata kerja"
-  },
-  {
-    "kotoba": "しんごう",
-    "kana": "しんごう",
-    "arti": "lampu lalu lintas",
-    "kategori": "kata benda"
   }
 ]
