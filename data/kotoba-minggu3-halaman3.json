@@ -1,0 +1,152 @@
+[
+  {
+    "kotoba": "学生",
+    "kana": "がくせい",
+    "arti": "Siswa",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "いそがし",
+    "kana": "忙しい",
+    "arti": "Sibuk",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "てつだう",
+    "kana": "手伝う",
+    "arti": "Membantu",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "話",
+    "kana": "はなし",
+    "arti": "Cerita",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "学校",
+    "kana": "がっこう",
+    "arti": "Sekolah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "むすめ",
+    "kana": "娘",
+    "arti": "Anak perempuan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "かお",
+    "kana": "顔",
+    "arti": "Wajah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "男の子",
+    "kana": "おとこのこ",
+    "arti": "Anak laki-laki",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "おさけ",
+    "kana": "お酒",
+    "arti": "Alkohol",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "飲む",
+    "kana": "のむ",
+    "arti": "Minum",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "とぶ",
+    "kana": "飛ぶ",
+    "arti": "Terbang",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "近所",
+    "kana": "きんじょ",
+    "arti": "Lingkungan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "おまつり",
+    "kana": "お祭り",
+    "arti": "Festival",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "けっこん",
+    "kana": "結婚",
+    "arti": "Pernikahan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ジョギング",
+    "kana": "ジョギング",
+    "arti": "Jogging",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "なれる",
+    "kana": "慣れる",
+    "arti": "Menjadi terbiasa",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "くつ",
+    "kana": "靴",
+    "arti": "Sepatu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "はける",
+    "kana": "履ける",
+    "arti": "Bisa memakai",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "はく",
+    "kana": "履く",
+    "arti": "Memakai",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "じこ",
+    "kana": "事故",
+    "arti": "Kecelakaan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "道",
+    "kana": "みち",
+    "arti": "Jalan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "こんでいる",
+    "kana": "込んでいる",
+    "arti": "Sesak",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "話す",
+    "kana": "はなす",
+    "arti": "Berbicara",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "おかげ",
+    "kana": "おかげ",
+    "arti": "Berkat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ずいぶん",
+    "kana": "ずいぶん",
+    "arti": "Cukup, sangat",
+    "kategori": "kata keterangan"
+  }
+]
