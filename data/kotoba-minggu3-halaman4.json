@@ -1,0 +1,98 @@
+[
+  {
+    "kotoba": "久しぶり",
+    "kana": "ひさしぶり",
+    "arti": "Lama tidak bertemu",
+    "kategori": "frasa"
+  },
+  {
+    "kotoba": "おかげさまで",
+    "kana": "おかげさまで",
+    "arti": "Berkat bantuan, terima kasih",
+    "kategori": "frasa"
+  },
+  {
+    "kotoba": "楽しい",
+    "kana": "たのしい",
+    "arti": "Menyenangkan",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "楽しみ",
+    "kana": "たのしみ",
+    "arti": "Kesenangan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "たいした",
+    "kana": "たいした",
+    "arti": "Besar, serius",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "いう",
+    "kana": "いう",
+    "arti": "Mengatakan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "あいかわらず",
+    "kana": "あいかわらず",
+    "arti": "Seperti biasa",
+    "kategori": "frasa"
+  },
+  {
+    "kotoba": "よろしく",
+    "kana": "よろしく",
+    "arti": "Terima kasih sebelumnya, harap",
+    "kategori": "frasa"
+  },
+  {
+    "kotoba": "そう",
+    "kana": "そう",
+    "arti": "Itu, demikian",
+    "kategori": "kata ganti"
+  },
+  {
+    "kotoba": "だ",
+    "kana": "だ",
+    "arti": "Adalah (verba kopula)",
+    "kategori": "verba kopula"
+  },
+  {
+    "kotoba": "仕方ない",
+    "kana": "しかたない",
+    "arti": "Tidak ada pilihan",
+    "kategori": "frasa"
+  },
+  {
+    "kotoba": "気にする",
+    "kana": "きにする",
+    "arti": "Memperhatikan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "とんでもない",
+    "kana": "とんでもない",
+    "arti": "Tidak terbayangkan",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "あやまる",
+    "kana": "あやまる",
+    "arti": "Minta maaf",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "わらう",
+    "kana": "わらう",
+    "arti": "Tertawa",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "ふる",
+    "kana": "ふる",
+    "arti": "Turun (hujan)",
+    "kategori": "kata kerja"
+  }
+]
