@@ -1,0 +1,200 @@
+[
+  {
+    "kotoba": "パソコン",
+    "kana": "パソコン",
+    "arti": "Komputer",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "買う",
+    "kana": "かう",
+    "arti": "Membeli",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "友達",
+    "kana": "ともだち",
+    "arti": "Teman",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "見る",
+    "kana": "みる",
+    "arti": "Melihat",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "映画",
+    "kana": "えいが",
+    "arti": "Film",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "買い物",
+    "kana": "かいもの",
+    "arti": "Belanja",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "泳ぐ",
+    "kana": "およぐ",
+    "arti": "Berenang",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "電気",
+    "kana": "でんき",
+    "arti": "Listrik",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "消す",
+    "kana": "けす",
+    "arti": "Mematikan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "教室",
+    "kana": "きょうしつ",
+    "arti": "Kelas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "貼る",
+    "kana": "はる",
+    "arti": "Menempelkan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "牛肉",
+    "kana": "ぎゅうにく",
+    "arti": "Daging sapi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "食べる",
+    "kana": "たべる",
+    "arti": "Makan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "登る",
+    "kana": "のぼる",
+    "arti": "Mendaki",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "富士山",
+    "kana": "ふじさん",
+    "arti": "Gunung Fuji",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "子供",
+    "kana": "こども",
+    "arti": "Anak-anak",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "明るい",
+    "kana": "あかるい",
+    "arti": "Terang",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "毎日",
+    "kana": "まいにち",
+    "arti": "Setiap hari",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "毎年",
+    "kana": "まいとし",
+    "arti": "Setiap tahun",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "毎月",
+    "kana": "まいげつ",
+    "arti": "Setiap bulan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "毎朝",
+    "kana": "まいあさ",
+    "arti": "Setiap pagi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "起きる",
+    "kana": "おきる",
+    "arti": "Bangun",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "使いやすい",
+    "kana": "つかいやすい",
+    "arti": "Mudah digunakan",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "便",
+    "kana": "べん",
+    "arti": "Kenyamanan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "売る",
+    "kana": "うる",
+    "arti": "Menjual",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "無い",
+    "kana": "ない",
+    "arti": "Tidak ada",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "貸す",
+    "kana": "かす",
+    "arti": "Meminjamkan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "祖父",
+    "kana": "そふ",
+    "arti": "Kakek",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "祖母",
+    "kana": "そぼ",
+    "arti": "Nenek",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "都",
+    "kana": "みやこ",
+    "arti": "Kota besar, ibu kota",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "作る",
+    "kana": "つくる",
+    "arti": "Membuat",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "かぞく",
+    "kana": "家族",
+    "arti": "Keluarga",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "衝",
+    "kana": "しょう",
+    "arti": "Benturan",
+    "kategori": "kata benda"
+  }
+]
