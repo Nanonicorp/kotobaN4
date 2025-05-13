@@ -1,0 +1,122 @@
+[
+  {
+    "kotoba": "人形",
+    "kana": "にんぎょう",
+    "arti": "Boneka",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "物語",
+    "kana": "ものがたり",
+    "arti": "Cerita",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "電話代",
+    "kana": "でんわだい",
+    "arti": "Biaya telepon",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "母親",
+    "kana": "ははおや",
+    "arti": "Ibu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "会話",
+    "kana": "かいわ",
+    "arti": "Percakapan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "お兄さん",
+    "kana": "おにいさん",
+    "arti": "Kakak laki-laki",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "建物",
+    "kana": "たてもの",
+    "arti": "Bangunan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "出口",
+    "kana": "でぐち",
+    "arti": "Pintu keluar",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "立つ",
+    "kana": "たつ",
+    "arti": "Berdiri",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "町",
+    "kana": "まち",
+    "arti": "Kota",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "人口",
+    "kana": "じんこう",
+    "arti": "Populasi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "去年",
+    "kana": "きょねん",
+    "arti": "Tahun lalu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "多い",
+    "kana": "おおい",
+    "arti": "Banyak",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "趣味",
+    "kana": "しゅみ",
+    "arti": "Hobi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "習う",
+    "kana": "ならう",
+    "arti": "Belajar",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "持つ",
+    "kana": "もつ",
+    "arti": "Membawa",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "渇く",
+    "kana": "かわく",
+    "arti": "Haus",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "優しい",
+    "kana": "やさしい",
+    "arti": "Baik hati",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "お見舞い",
+    "kana": "おみまい",
+    "arti": "Kunjungan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "急に",
+    "kana": "きゅうに",
+    "arti": "Tiba-tiba",
+    "kategori": "kata keterangan"
+  }
+]
