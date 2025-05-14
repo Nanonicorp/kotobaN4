@@ -1,0 +1,128 @@
+[
+  {
+    "kotoba": "作り方",
+    "kana": "つくりかた",
+    "arti": "Cara membuat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "国",
+    "kana": "くに",
+    "arti": "Negara",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "安い",
+    "kana": "やすい",
+    "arti": "Murah",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "ボールペン",
+    "kana": "ボールペン",
+    "arti": "Pulpen",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "書き",
+    "kana": "かき",
+    "arti": "Menulis",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "どこで",
+    "kana": "どこで",
+    "arti": "Di mana",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "調べる",
+    "kana": "しらべる",
+    "arti": "Mencari, memeriksa",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "小学校",
+    "kana": "しょうがっこう",
+    "arti": "Sekolah dasar",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "通う",
+    "kana": "かよう",
+    "arti": "Pergi ke",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "とても",
+    "kana": "とても",
+    "arti": "Sangat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "吸いすぎ",
+    "kana": "すいすぎ",
+    "arti": "Terlalu banyak merokok",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "二回",
+    "kana": "にかい",
+    "arti": "Dua kali",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "一週間",
+    "kana": "いっしゅうかん",
+    "arti": "Satu minggu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "音楽",
+    "kana": "おんがく",
+    "arti": "Musik",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "聞く",
+    "kana": "きく",
+    "arti": "Mendengar",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "おす",
+    "kana": "おす",
+    "arti": "Menekan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "出る",
+    "kana": "でる",
+    "arti": "Keluar",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "しらせる",
+    "kana": "しらせる",
+    "arti": "Memberi tahu",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "開ける",
+    "kana": "あける",
+    "arti": "Membuka",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "見える",
+    "kana": "みえる",
+    "arti": "Terlihat",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "雪",
+    "kana": "ゆき",
+    "arti": "Salju",
+    "kategori": "kata benda"
+  }
+]
