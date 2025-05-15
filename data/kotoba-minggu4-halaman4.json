@@ -1,0 +1,110 @@
+[
+  {
+    "kotoba": "薬",
+    "kana": "くすり",
+    "arti": "Obat",
+    "kategori": "kata benda (N5)"
+  },
+  {
+    "kotoba": "戻る",
+    "kana": "もどる",
+    "arti": "Kembali",
+    "kategori": "kata kerja (N4)"
+  },
+  {
+    "kotoba": "時",
+    "kana": "とき",
+    "arti": "Waktu/saat",
+    "kategori": "kata benda (N5)"
+  },
+  {
+    "kotoba": "準備",
+    "kana": "じゅんび",
+    "arti": "Persiapan",
+    "kategori": "kata benda (N5)"
+  },
+  {
+    "kotoba": "私たち",
+    "kana": "わたしたち",
+    "arti": "Kami",
+    "kategori": "kata ganti (N5)"
+  },
+  {
+    "kotoba": "郵便局",
+    "kana": "ゆうびんきょく",
+    "arti": "Kantor pos",
+    "kategori": "kata benda (N5)"
+  },
+  {
+    "kotoba": "通る",
+    "kana": "とおる",
+    "arti": "Lewat",
+    "kategori": "kata kerja (N5)"
+  },
+  {
+    "kotoba": "分かる",
+    "kana": "わかる",
+    "arti": "Mengerti",
+    "kategori": "kata kerja (N5)"
+  },
+  {
+    "kotoba": "易しい",
+    "kana": "やさしい",
+    "arti": "Mudah",
+    "kategori": "kata sifat (N5)"
+  },
+  {
+    "kotoba": "待つ",
+    "kana": "まつ",
+    "arti": "Menunggu",
+    "kategori": "kata kerja (N5)"
+  },
+  {
+    "kotoba": "呼ぶ",
+    "kana": "よぶ",
+    "arti": "Memanggil",
+    "kategori": "kata kerja (N5)"
+  },
+  {
+    "kotoba": "不安",
+    "kana": "ふあん",
+    "arti": "Cemas",
+    "kategori": "kata sifat (N4)"
+  },
+  {
+    "kotoba": "夕方",
+    "kana": "ゆうがた",
+    "arti": "Sore",
+    "kategori": "kata benda (N5)"
+  },
+  {
+    "kotoba": "終わる",
+    "kana": "おわる",
+    "arti": "Selesai",
+    "kategori": "kata kerja (N5)"
+  },
+  {
+    "kotoba": "暇",
+    "kana": "ひま",
+    "arti": "Waktu luang",
+    "kategori": "kata benda (N5)"
+  },
+  {
+    "kotoba": "遊ぶ",
+    "kana": "あそぶ",
+    "arti": "Bermain",
+    "kategori": "kata kerja (N5)"
+  },
+  {
+    "kotoba": "たばこ",
+    "kana": "たばこ",
+    "arti": "Rokok",
+    "kategori": "kata benda (N5)"
+  },
+  {
+    "kotoba": "吸う",
+    "kana": "すう",
+    "arti": "Merokok/Menghisap",
+    "kategori": "kata kerja (N5)"
+  }
+]
